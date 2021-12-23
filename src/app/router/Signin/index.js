@@ -29,6 +29,15 @@ export default function SignIn() {
    return (
       <div className="accountpage main">
          <div className="loginbox">
+            <div>
+               <strong>Sample Credentials</strong>
+               <p>
+                  <b>Email</b>: remmon122+1@gmail.com
+                  <br />
+                  <b>Password</b>: Admin@123
+               </p>
+            </div>
+
             <form onSubmit={handleSubmit(onSubmit)}>
                <div className="form-group mb-3">
                   <input
