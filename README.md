@@ -11,7 +11,7 @@ Welcome! we hope you enjoy the site as much as we enjoyed making it. <br/>
 
 -  [Demo](#%EF%B8%8F-demo)
 -  [Installation](#%EF%B8%8F-installation)
--  [Technologies Stack](#%EF%B8%8F-demo)
+-  [Technologies Stack](#-technologies-stack)
 -  [Authhors](#-authhors)
 -  [Mentor](#-mentor)
 -  [License](#license)
@@ -23,10 +23,16 @@ Here you can find the demo links:
 
 -  [Codezi](https://wizardly-brahmagupta-842dc6.netlify.app/)
 
-### 👮‍ Test credentials
+### 👮‍ Admin/Company credentials
 
 > Email: admin@codezi.com<br/>
 > Password: Admin@123<br/>
+
+### 👮‍ Candidate credentials
+
+> Email: remmon122+1@gmail.com<br/>
+> Password: Admin@123<br/>
+
 
 ## ⬇️ Installation
 
@@ -74,10 +80,9 @@ $ yarn start
 [MIT](https://opensource.org/licenses/MIT)
 
 <!-- ## 😄 Screenshots
-
-<!-- ![Image of Codezi](./home.png) -->
 <p>
 <img src="./home.png" align="center" height="200">
 </p> -->
+<!-- ![Image of Codezi](./home.png) -->
 
 
