@@ -30,7 +30,16 @@ export default function SignIn() {
       <div className="accountpage main">
          <div className="loginbox">
             <div>
-               <strong>Sample Credentials</strong>
+               <strong>Company Credentials</strong>
+               <p>
+                  <b>Email</b>: admin@codezi.com
+                  <br />
+                  <b>Password</b>: Admin@123
+               </p>
+            </div>
+
+            <div>
+               <strong>Candidate Credentials</strong>
                <p>
                   <b>Email</b>: remmon122+1@gmail.com
                   <br />
