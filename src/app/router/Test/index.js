@@ -290,13 +290,15 @@ export default function Test({ match }) {
                      </Row>
                      <Row className="mb-3">
                         <Col className="col-md-6">
-                           <Button
-                              className="px-3"
-                              onClick={previous}
-                              variant="light"
-                           >
-                              Previous
-                           </Button>
+                           {index !== 0 && (
+                              <Button
+                                 className="px-3"
+                                 onClick={previous}
+                                 variant="light"
+                              >
+                                 Previous
+                              </Button>
+                           )}
                         </Col>
                         <Col className="col-md-6 d-flex justify-content-end">
                            <Button
