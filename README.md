@@ -1,26 +1,21 @@
 <!-- <h1 align="center">Codezi</h1>-->
 <p align="center">
         <img src="./src/logo.svg" height="80">
-        <h4 align="center">Applicants website for all your hiring.</h4><br/>
+        <h4 align="center">Codezi is a unique Screen Applicants platform for Free.</h4>
+
+Resumes aren't enough. Use Triplebyte's data-backed assessment to identify skilled applicants before wasting time in tech screens. <br /> <br />
+Welcome! we hope you enjoy the site as much as we enjoyed making it. <br/>
 </p>
 
 ## 🏢 Table of contents
 
--  [About](#-about)
 -  [Demo](#%EF%B8%8F-demo)
--  [Technologies](#-technologies)
--  [Screenshots](#-screenshots)
--  [Contributors](#-contributors)
+-  [Installation](#%EF%B8%8F-installation)
+-  [Technologies Stack](#%EF%B8%8F-demo)
+-  [Authhors](#-authhors)
 -  [Mentor](#-mentor)
--  [Setup](#%EF%B8%8F-setup)
-
-## 🎯 About
-
-Codezi is a unique Screen Applicants platform for Free.
-
--Live demo [_here_](https://wizardly-brahmagupta-842dc6.netlify.app).
-
-Frontend is hosted on Netlify.
+-  [License](#license)
+<!-- -  [Screenshots](#-screenshots) -->
 
 ## ▶️ Demo
 
@@ -33,7 +28,20 @@ Here you can find the demo links:
 > Email: admin@codezi.com<br/>
 > Password: Admin@123<br/>
 
-## 🚀 Technologies
+## ⬇️ Installation
+
+Requires [Node.js](https://nodejs.org/) to run (v14.15.0+).
+
+Install the dependencies and open the terminal and then run the following command one by one.
+
+```sh
+$ git clone https://github.com/codezi-zeta/codezi.git
+$ cd codezi
+$ yarm
+$ yarn start
+```
+
+## 🚀 Technologies Stack
 
 ![Node.js **v14.15.0**](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)\
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\
@@ -41,14 +49,8 @@ Here you can find the demo links:
 ![Parse Platform and Cloud Functions](https://img.shields.io/badge/Parse--Platform--and--Cloud--Functions-0081AA?style=for-the-badge&logo=Formik&logoColor=white)\
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 😄 Screenshots
 
-<!-- ![Image of Codezi](./home.png) -->
-<p>
-<img src="./home.png" align="center" height="200">
-</p>
-
-## 👱 Contributors
+## 👱 Authhors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -66,15 +68,16 @@ Here you can find the demo links:
   </tr>  
 </table>
 
-## ⬇️ Setup
 
-Requires [Node.js](https://nodejs.org/) to run (v14.15.0+).
+# License
 
-Install the dependencies and open the terminal and then run the following command one by one.
+[MIT](https://opensource.org/licenses/MIT)
 
-```sh
-$ git clone https://github.com/codezi-zeta/codezi.git
-$ cd codezi
-$ yarm
-$ yarn start
-```
+<!-- ## 😄 Screenshots
+
+<!-- ![Image of Codezi](./home.png) -->
+<p>
+<img src="./home.png" align="center" height="200">
+</p> -->
+
+
