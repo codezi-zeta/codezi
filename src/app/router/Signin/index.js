@@ -9,9 +9,15 @@ export default function SignIn() {
    const {
       register,
       handleSubmit,
+
       // watch,
       formState: { errors },
-   } = useForm()
+   } = useForm({
+      defaultValues: {
+         email: 'remmon122+1@gmail.com',
+         password: 'Admin@123',
+      },
+   })
 
    const {
       isLoading,
@@ -54,7 +60,6 @@ export default function SignIn() {
                      className="form-control"
                      placeholder="Enter Email"
                      {...register('email', { required: true })}
-                     value="remmon122+1@gmail.com"
                   />
                   {errors.email && (
                      <span className="error">This field is required</span>
@@ -66,7 +71,6 @@ export default function SignIn() {
                      placeholder="Enter Password"
                      className="form-control"
                      {...register('password', { required: true })}
-                     value="Admin@123"
                   />
                   {errors.password && (
                      <span className="error">This field is required</span>
