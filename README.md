@@ -11,8 +11,8 @@ Welcome! we hope you enjoy the site as much as we enjoyed making it. <br/>
 
 -  [Demo](#%EF%B8%8F-demo)
 -  [Installation](#%EF%B8%8F-installation)
--  [Technologies Stack](#-technologies-stack)
--  [Authhors](#-authhors)
+-  [Technology Stack](#-technology-stack)
+-  [Authors](#-authors)
 -  [Mentor](#-mentor)
 -  [License](#license)
 <!-- -  [Screenshots](#-screenshots) -->
@@ -47,7 +47,7 @@ $ yarm
 $ yarn start
 ```
 
-## 🚀 Technologies Stack
+## 🚀 Technology Stack
 
 ![Node.js **v14.15.0**](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)\
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\
@@ -56,7 +56,7 @@ $ yarn start
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## 👱 Authhors
+## 👱 Authors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
